@@ -99,6 +99,8 @@ NTFS, RPM, SquashFS, UDF, VHD, XAR, Z.
 
 ## How To Deploy it?
 <p><a href="https://github.com/Anime-Republic/MIRROR-HUNTER/wiki"> <img src="https://img.shields.io/badge/Deploy%20Guide-red?style=for-the-badge&logo=github" width="200""/></a></p>
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/-U9usz?referralCode=UmziEH)
     
 ## Generate Database
 <details>
