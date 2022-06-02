@@ -105,7 +105,9 @@ NTFS, RPM, SquashFS, UDF, VHD, XAR, Z.
 ## Use gits secret to make config
 <p><a href="https://github.com/Arata74/HUNTER-ARIA/raw/main/config.env.example"> <img src="https://img.shields.io/badge/Config%20Template-black?style=for-the-badge&logo=github" width="200""/></a></p>
 <p><a href="https://gist.github.com/mine"> <img src="https://img.shields.io/badge/Gits-black?style=for-the-badge&logo=github" width="100""/></a></p>
+
 - copy raw address (example: https://gist.github.com/Arata74/59be08e3ca1f147b9cb7145080c03cb7/raw/d733ce97ad1fad9a788da2ce80cc85b6087e67c3/rf55555)
+
 - remove commit id (example: https://gist.github.com/Arata74/59be08e3ca1f147b9cb7145080c03cb7/raw/rf55555)
     
 ## Generate Database
