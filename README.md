@@ -1,4 +1,4 @@
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/N2ZsgF?referralCode=3ACblD)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/NTp3PD?referralCode=3ACblD)
 
 
 # <b>MIRROR HUNTER</b>
