@@ -23,6 +23,7 @@ pyrogram==1.4.16
 python-dotenv
 python-magic
 python-telegram-bot
+qbittorrentapi
 requests
 six
 telegraph
